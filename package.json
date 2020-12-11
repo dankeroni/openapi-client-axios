@@ -1,5 +1,5 @@
 {
-  "name": "openapi-client-axios",
+  "name": "@dankeroni/openapi-client-axios",
   "description": "JavaScript client library for consuming OpenAPI-enabled APIs with axios. Types included.",
   "version": "3.7.8",
   "author": "Viljami Kuosmanen <viljami@avoinsorsa.fi>",
